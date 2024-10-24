@@ -36,7 +36,8 @@ public class InMemoryUserDataAccessObject implements SignupUserDataAccessInterfa
     }
 
     /**
-     * @param name ..
+     * Null.
+     * @param name .
      */
     @Override
     public void setCurrentUser(String name) {
@@ -44,6 +45,7 @@ public class InMemoryUserDataAccessObject implements SignupUserDataAccessInterfa
     }
 
     /**
+     * Null.
      * @return .
      */
     @Override
